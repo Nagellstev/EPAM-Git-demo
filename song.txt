@@ -7,6 +7,3 @@
 
 some content
 and here
-
-
-file was modified to reverse
