@@ -1,2 +1,4 @@
 1 first verse
 2 first verse
+3 second verse (merge with conflict)
+4 second verse (merge with conflict)
