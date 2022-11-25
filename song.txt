@@ -1,9 +1,4 @@
 1 first verse
 2 first verse
-3 second verse
-4 second verse
-5 third verse
-6 third verse
-
-some content
-and here
+3 second verse (branch "feature")
+4 second verse (branch "feature")
