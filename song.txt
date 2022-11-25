@@ -6,3 +6,6 @@
 
 5 third verse (in feature for merge with conflict)
 6 third verse (in feature for merge with conflict)
+
+7 forth verse (for tag)
+7 forth verse (for tag)
