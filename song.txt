@@ -1,6 +1,2 @@
 1 first verse
 2 first verse
-3 second verse (branch "feature")
-4 second verse (branch "feature")
-5 third verse (in master or in feature?)
-6 third verse (in master or in feature?)
